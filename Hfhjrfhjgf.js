@@ -30,9 +30,9 @@ const BASE_URL = 'https://www.netflix.com/title/'
 const FILM_ID = 81215567
 const AREA_TEST_FILM_ID = 80018499
 const DEFAULT_OPTIONS = {
-  title: 'Netflix 解锁检测',
-  fullContent: '完整支持Netflix，地区：#REGION_FLAG# #REGION_NAME#',
-  fullIcon: '',
+  title: '📺 𝑵𝒆𝒕𝒇𝒍𝒊𝒙 解锁检测',
+  fullContent: '«已完整解锁ɴғʟx» ➺ 地区：#REGION_FLAG#  #REGION_CODE#',
+  fullIcon: 'play.tv.fill',
   fullIconColor: '',
   fullStyle: 'good',
   onlyOriginalContent: '仅支持自制剧，地区：#REGION_FLAG# #REGION_NAME#',
